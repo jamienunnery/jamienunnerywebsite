@@ -35,21 +35,4 @@
     </image:image>
   </url>
 
-  <!-- Social Media Links (optional, if you want them crawled directly) -->
-  <url>
-    <loc>https://www.facebook.com/jamie.a.nunnery</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mastodon.social/@jamienunnery</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.x.com/jamienunnery</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
 </urlset>
