@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>http://www.jamienunnery.com/</loc>
+    <lastmod>2024-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/nrcpxY4.jpg</image:loc>
+      <image:caption>A portrait photograph of Jamie Nunnery</image:caption>
+      <image:title>Jamie Nunnery Portrait</image:title>
+    </image:image>
+  </url>
+
+  <!-- Image: Website Banner -->
+  <url>
+    <loc>http://www.jamienunnery.com/</loc>
+    <image:image>
+      <image:loc>https://i.imgur.com/JN6mLBi.png</image:loc>
+      <image:caption>Jamie Nunnery's Personal Website Banner</image:caption>
+      <image:title>Jamie Nunnery Website Banner</image:title>
+    </image:image>
+  </url>
+
+  <!-- Image: Jamie at Tahquamenon Falls -->
+  <url>
+    <loc>http://www.jamienunnery.com/</loc>
+    <image:image>
+      <image:loc>https://i.imgur.com/BtBNmqq.jpg</image:loc>
+      <image:caption>Jamie Nunnery at Tahquamenon Falls, Michigan</image:caption>
+      <image:title>Jamie Nunnery at Tahquamenon Falls</image:title>
+    </image:image>
+  </url>
+
+  <!-- Social Media Links (optional, if you want them crawled directly) -->
+  <url>
+    <loc>https://www.facebook.com/jamie.a.nunnery</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mastodon.social/@jamienunnery</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.x.com/jamienunnery</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
