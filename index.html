@@ -55,15 +55,24 @@ iframe {
 }
 	</style
     <!-- Structured Data -->
-    <script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "Person",
-        "name": "Jamie Nunnery",
-        "url": "http://www.jamienunnery.com",
-        "image": "https://i.imgur.com/nrcpxY4.jpg"  // URL of preferred profile picture
-    }
-    </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Jamie Nunnery",
+  "url": "http://www.jamienunnery.com",
+  "image": {
+    "@type": "ImageObject",
+    "contentUrl": "https://i.imgur.com/nrcpxY4.jpg",
+    "description": "A portrait photograph of Jamie Nunnery",
+    "representativeOfPage": true
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.jamienunnery.com"
+  }
+}
+</script>
 </head>
 <body>
     <div class="center-content">
