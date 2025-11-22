@@ -9,7 +9,7 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://i.imgur.com/nrcpxY4.jpg</image:loc>
+      <image:loc></image:loc>
       <image:caption>A portrait photograph of Jamie Nunnery</image:caption>
       <image:title>Jamie Nunnery Portrait</image:title>
     </image:image>
@@ -19,7 +19,7 @@
   <url>
     <loc>http://www.jamienunnery.com/</loc>
     <image:image>
-      <image:loc>https://i.imgur.com/JN6mLBi.png</image:loc>
+      <image:loc></image:loc>
       <image:caption>Jamie Nunnery's Personal Website Banner</image:caption>
       <image:title>Jamie Nunnery Website Banner</image:title>
     </image:image>
@@ -29,7 +29,7 @@
   <url>
     <loc>http://www.jamienunnery.com/</loc>
     <image:image>
-      <image:loc>https://i.imgur.com/BtBNmqq.jpg</image:loc>
+      <image:loc></image:loc>
       <image:caption>Jamie Nunnery at Tahquamenon Falls, Michigan</image:caption>
       <image:title>Jamie Nunnery at Tahquamenon Falls</image:title>
     </image:image>
